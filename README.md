@@ -1,8 +1,8 @@
-<!-- Profile README for Crisha Nicole M. Reyes (github.com/crisha4) -->
+<!-- Profile README -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Crisha%20Nicole%20M.%20Reyes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Web%20Development%20Trainee&descAlignY=58&descSize=18" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:A855F7&height=200&section=header&text=Crisha%20Nicole%20M.%20Reyes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Web%20Development%20Trainee&descAlignY=58&descSize=18" alt="Header" width="100%" />
 
 <a href="https://github.com/crisha4">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=Turning+data+into+insights+%F0%9F%93%8A;Building+clean+and+responsive+websites+%F0%9F%92%BB;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing animation" />
@@ -82,8 +82,8 @@ Hi! I'm **Crisha Nicole M. Reyes**, a **Data Analyst** at **Acabar Marketing Int
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=crisha4&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisha4&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=crisha4&show_icons=true&theme=dracula&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisha4&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -103,6 +103,6 @@ Hi! I'm **Crisha Nicole M. Reyes**, a **Data Analyst** at **Acabar Marketing Int
 
 <i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:A855F7&height=100&section=footer" alt="Footer" width="100%" />
 
 </div>
