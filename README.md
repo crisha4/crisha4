@@ -11,6 +11,7 @@ Hi! I'm Crisha Nicole M. Reyes, a Data Analyst at Acabar Marketing Intl Inc. who
 📍 Based in Metro Manila, Philippines
 
 <strong>🛠️ Tech Stack</strong>
+
 <strong>💻 Languages & Web Development</strong>
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,php,java,py,r&perline=6" alt="Languages" /> </p>
 <strong>🎨 Frameworks, CMS & Design</strong>
